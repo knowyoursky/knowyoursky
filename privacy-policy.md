@@ -72,7 +72,7 @@ This data can be deleted at any time via the **"Reset progress"** option in the 
 
 ## 3. Children and minors
 
-KnowYourSky is designed for a general audience that also includes children (one of the game's difficulty levels is designed for younger players), but **it is not an app directed exclusively at children**. Regardless of the user's age, the app does not collect, request, or transmit any personal information, for the reasons described in section 1. Since no data is collected, no parental consent is required to use the app.
+KnowYourSky is designed for a general audience that also includes children (one of the game's difficulty levels is designed for younger players under adult supervision), but **it is not an app directed exclusively at children**. Regardless of the user's age, the app does not collect, request, or transmit any personal information, for the reasons described in section 1.
 
 ## 4. Third-party libraries
 
