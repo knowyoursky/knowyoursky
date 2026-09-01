@@ -6,6 +6,14 @@ Changelog board for **KnowYourSky** (version code name: Orion), in plain languag
 
 ---
 
+### Version 1.0.55
+
+*Date: September 2026*
+
+- Bug Fix - Pre Release Beta
+
+---
+
 ### Version 1.0.53
 
 *Date: September 2026*

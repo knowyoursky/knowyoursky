@@ -6,6 +6,14 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.55
+
+*Data: settembre 2026*
+
+- Bug Fix - Pre Release Beta
+
+---
+
 ### Versione 1.0.53
 
 *Data: settembre 2026*
