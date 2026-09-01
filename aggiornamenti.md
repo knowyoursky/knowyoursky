@@ -6,6 +6,24 @@ Bacheca delle novità di **KnowYourSky** (nome in codice di versione: Orion), in
 
 ---
 
+### Versione 1.0.53
+
+*Data: settembre 2026*
+
+- Aggiunta modalità selettore per valutazione cielo
+
+---
+
+### Versione 1.0.52
+
+*Data: settembre 2026*
+
+- Corretto un bug del quiz che non finiva mai
+- Aggiunta la modalità Ripassa i tuoi errori
+- Aggiunto il test Qualità del cielo
+
+---
+
 ### Versione 1.0 — Prima versione (Beta)
 
 *Data: 2026*
